@@ -43,7 +43,7 @@ To view the landing page locally, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/mumbai-indians-landing-page.git
+    git clone https://github.com/aahmadshaik/Landing-Page.git
     cd mumbai-indians-landing-page
     ```
 
@@ -66,6 +66,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at [your_email@example.com](mailto:your_email@example.com).
+If you have any questions or feedback, feel free to contact me at [shaikahmadaslam@gmail.com]
 
 Thank you for visiting the Mumbai Indians Landing Page!
